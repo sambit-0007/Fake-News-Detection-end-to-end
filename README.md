@@ -1,6 +1,5 @@
 # Fake-News-Detection-end-to-end
 
-# Face-Mask-Detection
 
 ## Problem Statement
 To detect whether the news is fake or not by using **Recurrent Neural Networks** and **NLP**
