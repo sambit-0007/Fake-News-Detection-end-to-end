@@ -25,4 +25,4 @@ One front-end page is created for the model and can be used for prediction of ne
 
 Reload the page to see the below gif.
 
-<img src="fake_news_detection.mp4" title='fake_news_detection' width="750" align="center">
+<img src="fake_news_detection.gif" title='fake_news_detection' width="750" align="center">
